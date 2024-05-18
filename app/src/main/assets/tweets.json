@@ -1,0 +1,238 @@
+[
+  {
+    "tweet": "I've got 99 problems and using my phone as a mirror for my zoom call is one. #quarantineproblems",
+    "category": "Humor"
+  },
+  {
+    "tweet": "So proud of our team for launching our new app! Check it out on the App Store. #startuplife",
+    "category": "Tech"
+  },
+  {
+    "tweet": "Today is World Mental Health Day. Remember to take care of yourself and reach out if you need help. #MentalHealthAwareness",
+    "category": "Health"
+  },
+  {
+    "tweet": "Excited to speak at the Web Development Conference this weekend! See you there. #webdev",
+    "category": "Events"
+  },
+  {
+    "tweet": "Just finished my morning run and the sunrise was breathtaking. #fitness",
+    "category": "Fitness"
+  },
+  {
+    "tweet": "Check out my latest blog post on sustainable living tips. #environment",
+    "category": "Environment"
+  },
+  {
+    "tweet": "Can't believe it's been 10 years since my first album dropped. Thanks for all the love and support! #music",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "The new iOS update is here, and the new features are game-changing! #technews",
+    "category": "Tech"
+  },
+  {
+    "tweet": "Happy Mother's Day to all the amazing moms out there! You are appreciated more than you know. #MothersDay",
+    "category": "Holidays"
+  },
+  {
+    "tweet": "Starting the weekend with a new book and a cup of coffee. #relaxation",
+    "category": "Lifestyle"
+  },
+  {
+    "tweet": "Incredible performance by our team in the final match! We are the champions! #sports",
+    "category": "Sports"
+  },
+  {
+    "tweet": "Exploring the beautiful landscapes of Iceland. This place is magical. #travel",
+    "category": "Travel"
+  },
+  {
+    "tweet": "The best part of baking is definitely the smell of fresh cookies. #baking",
+    "category": "Food"
+  },
+  {
+    "tweet": "Celebrating Pride Month and supporting the LGBTQ+ community. Love is love. #Pride",
+    "category": "Social Issues"
+  },
+  {
+    "tweet": "Anyone else obsessed with the new season of Stranger Things? It's so good! #TVShows",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "Big news! We're launching a new product next week. Stay tuned for more details. #business",
+    "category": "Business"
+  },
+  {
+    "tweet": "Just voted! Make sure your voice is heard and go vote. #Election2024",
+    "category": "Politics"
+  },
+  {
+    "tweet": "Learned a new recipe today and it turned out amazing. Cooking is so therapeutic. #homecooking",
+    "category": "Food"
+  },
+  {
+    "tweet": "Working from home has its perks, but I miss my office snacks. #WFH",
+    "category": "Work"
+  },
+  {
+    "tweet": "Taking some time to meditate and recharge. Self-care is important. #wellness",
+    "category": "Health"
+  },
+  {
+    "tweet": "The new Tesla Model S is a game-changer for electric vehicles. #tech",
+    "category": "Tech"
+  },
+  {
+    "tweet": "Had a fantastic time at the charity gala last night. Such an inspiring event. #philanthropy",
+    "category": "Events"
+  },
+  {
+    "tweet": "Adopting a rescue pet was the best decision ever. Meet our new family member! #adopt",
+    "category": "Animals"
+  },
+  {
+    "tweet": "Remembering those who served and sacrificed for our freedom. #MemorialDay",
+    "category": "Holidays"
+  },
+  {
+    "tweet": "Check out our new art exhibit at the downtown gallery. It's stunning! #art",
+    "category": "Art"
+  },
+  {
+    "tweet": "Had an amazing hike today and captured some stunning photos. Nature is incredible. #outdoors",
+    "category": "Nature"
+  },
+  {
+    "tweet": "My latest novel is now available in bookstores. So excited to share this story with you all! #writing",
+    "category": "Literature"
+  },
+  {
+    "tweet": "Can't wait to see my favorite band live tonight! #concert",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "Happy Father's Day to all the dads out there! You're all heroes. #FathersDay",
+    "category": "Holidays"
+  },
+  {
+    "tweet": "Just finished a great workout session. Feeling strong and energized. #fitness",
+    "category": "Fitness"
+  },
+  {
+    "tweet": "Our company just hit a major milestone! Thanks to everyone who supported us. #business",
+    "category": "Business"
+  },
+  {
+    "tweet": "The new Marvel movie is out and it's a must-see! #movies",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "Supporting small businesses during the pandemic. Every little bit helps. #supportlocal",
+    "category": "Social Issues"
+  },
+  {
+    "tweet": "Spent the day gardening and it's so rewarding to see everything bloom. #gardening",
+    "category": "Lifestyle"
+  },
+  {
+    "tweet": "Trying out a new yoga routine and it's fantastic for flexibility. #yoga",
+    "category": "Fitness"
+  },
+  {
+    "tweet": "Excited for the new season of The Crown. It's going to be epic! #TVShows",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "Feeling grateful for the little things today. Life is good. #gratitude",
+    "category": "Lifestyle"
+  },
+  {
+    "tweet": "Our new tech startup is hiring! Join us in revolutionizing the industry. #careers",
+    "category": "Tech"
+  },
+  {
+    "tweet": "Celebrating International Women's Day and the incredible achievements of women around the world. #IWD2024",
+    "category": "Social Issues"
+  },
+  {
+    "tweet": "Just launched my new podcast! Tune in for the latest episodes. #podcast",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "The best way to start the day is with a positive mindset. #motivation",
+    "category": "Lifestyle"
+  },
+  {
+    "tweet": "Catching up on some much-needed sleep this weekend. #selfcare",
+    "category": "Health"
+  },
+  {
+    "tweet": "Exploring new tech innovations at CES 2024. So much cool stuff! #CES2024",
+    "category": "Tech"
+  },
+  {
+    "tweet": "Congratulations to all the graduates! Your hard work has paid off. #graduation",
+    "category": "Education"
+  },
+  {
+    "tweet": "Had an inspiring conversation with a fellow entrepreneur today. Collaboration is key. #networking",
+    "category": "Business"
+  },
+  {
+    "tweet": "Excited to announce that I'll be speaking at TEDx next month! #TEDx",
+    "category": "Events"
+  },
+  {
+    "tweet": "Enjoying the weekend with family and friends. #weekendvibes",
+    "category": "Lifestyle"
+  },
+  {
+    "tweet": "The new game I've been playing is so addictive! Can't put it down. #gaming",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "Check out our new online course on digital marketing. #learning",
+    "category": "Education"
+  },
+  {
+    "tweet": "Remembering the incredible legacy of Martin Luther King Jr. #MLKDay",
+    "category": "Holidays"
+  },
+  {
+    "tweet": "Feeling the holiday spirit! Decorating the house and baking cookies. #holidayseason",
+    "category": "Holidays"
+  },
+  {
+    "tweet": "Just finished a marathon and it feels amazing! #running",
+    "category": "Fitness"
+  },
+  {
+    "tweet": "The new AI technology being developed is mind-blowing. #technews",
+    "category": "Tech"
+  },
+  {
+    "tweet": "Attending a virtual concert tonight. Excited to see how it goes! #virtualevents",
+    "category": "Entertainment"
+  },
+  {
+    "tweet": "Learning to play the guitar has been such a fulfilling hobby. #music",
+    "category": "Lifestyle"
+  },
+  {
+    "tweet": "Our team just won the regional championship! Go team! #sports",
+    "category": "Sports"
+  },
+  {
+    "tweet": "Had an amazing day volunteering at the local food bank. #giveback",
+    "category": "Social Issues"
+  },
+  {
+    "tweet": "Exploring new recipes and cooking up a storm in the kitchen. #foodie",
+    "category": "Food"
+  },
+  {
+    "tweet": "Reading a great book and can't put it down. #booklover",
+    "category": "Literature"
+  }
+]
